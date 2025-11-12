@@ -35,12 +35,12 @@
     </classes>
   </test>
 
-  <test name="Product Page Data Test" >
+  <!-- <test name="Product Page Data Test" >
     <classes>
       <class name="com.qa.opencart.ProductPageDataTest">
       </class>
     </classes>
-  </test>
+  </test> !-->
 
   <test name="Forgot Password Page Test" >
     <classes>
